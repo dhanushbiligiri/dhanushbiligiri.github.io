@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student, <a href='#https://www.mtu.edu'>Michigan Technological University</a> #. Address. Contacts. Motto. Etc.
+subtitle: PhD Student, <a href="https://www.mtu.edu" target="_blank" rel="noopener noreferrer">Michigan Technological University</a> #. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
