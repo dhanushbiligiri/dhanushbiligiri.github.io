@@ -515,7 +515,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/{"logo"=>"linkedin.png", "title"=>"LinkedIn", "url"=>"https://www.linkedin.com/in/dbiligiri/"}", "_blank");
+          window.open("https://www.linkedin.com/in/dbiligiri", "_blank");
         },
       },{
       id: 'light-theme',
