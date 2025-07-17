@@ -28,17 +28,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I’m a 2nd-year Ph.D. student in Computer Engineering at Michigan Technological University, where I specialize in reinforcement learning for legged locomotion in robotics. I work in the RoLAC Lab under the guidance of Dr. [Tan Chen](https://chentan.github.io/), trying to teach robots how to walk, run, and not fall over (too often).
+Hi! I’m a 2nd-year Ph.D. student in Computer Engineering at Michigan Technological University, where I specialize in reinforcement learning for legged locomotion in robotics. I work in the RoLAC Lab under the guidance of [Dr. Tan Chen](https://chentan.github.io/), trying to teach robots how to walk, run, and not fall over (too often).
 
 My research lies at the intersection of machine learning and bipedal models(for now xD) — basically, if it moves and learns, I want to study it. When I’m not debugging why my simulation turned into a somersaulting robot, you’ll probably find me on the basketball court, out for a run, swinging a golf club (sometimes accurately), or on a highly optimized random walk toward the nearest coffee shop — reward function: caffeine.
 
-Outside the lab, I’m a big sports fan. I live and breathe [Golden State Warriors](https://www.nba.com/warriors) basketball ([IG](https://www.instagram.com/warriors)), enjoy the speed and chaos of [Mercedes](https://www.mercedesamgf1.com) ([IG](https://www.instagram.com/mercedesamgf1/)) and [Ferrari](https://www.ferrari.com/en-EN/formula1) ([IG](https://www.instagram.com/scuderiaferrari/)) in Formula 1 (yes, both — because why pick peace when you can pick both constructors and a headache every race weekend?), and follow [Royal Challengers Bangalore (RCB)](https://www.royalchallengers.com) ([IG](https://www.instagram.com/royalchallengersbangalore/)) and [Team India](https://www.bcci.tv) ([IG](https://www.instagram.com/indiancricketteam/)) in cricket like it’s a national duty.
+Outside the lab, I’m a big sports fan. I live and breathe [Golden State Warriors](https://www.nba.com/warriors) basketball ((https://www.instagram.com/warriors)), enjoy the speed and chaos of [Mercedes](https://www.mercedesamgf1.com) ((https://www.instagram.com/mercedesamgf1/)) and [Ferrari](https://www.ferrari.com/en-EN/formula1) ((https://www.instagram.com/scuderiaferrari/)) in Formula 1 (yes, both — because why pick peace when you can pick both constructors and a headache every race weekend?), and follow [Royal Challengers Bangalore](https://www.royalchallengers.com) ((https://www.instagram.com/royalchallengersbangalore/)) and [Team India](https://www.bcci.tv) ((https://www.instagram.com/indiancricketteam/)) in cricket like it’s a national duty.
 
 I started my journey with a Bachelor's in Computer Engineering in India, followed by an M.S. in Data Science at Michigan Tech. I've worked on projects ranging from hyperspectral image classification to underwater object detection, and now I’m diving headfirst into making robots move more like humans (or at least like caffeinated goats).
 
-Whether it’s a robot learning to walk, a model optimizing itself, or my favorite teams chasing championships — I’m all in for the learning, the chaos, and the occasional victory.
-
-Let’s connect if you're into robotics, AI, sports banter, or just want to trade notes on which team is most likely to cause heartbreak this season. 🤷🏽‍♂️
+Whether it’s a robot learning to walk, a model optimizing itself, or my favorite teams chasing championships — I’m all in for the learning, the chaos, and the victory. Let’s connect if you're into robotics, AI, sports banter, or just want to trade notes on which team is most likely to cause heartbreak this season. 🤷🏽‍♂️
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
