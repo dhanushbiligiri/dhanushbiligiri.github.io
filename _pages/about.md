@@ -38,8 +38,7 @@ I started my journey with a Bachelor's in Computer Engineering in India, followe
 
 Whether it’s a robot learning to walk, a model optimizing itself, or my favorite teams chasing championships — I’m all in for the learning, the chaos, and the occasional victory.
 
-Let’s connect if you're into robotics, AI, sports banter, or just want to trade notes on which team is most likely to cause heartbreak this season.  
-🚶‍♂️🤖🏀🏌️‍♂️☀️🏎️🏏
+Let’s connect if you're into robotics, AI, sports banter, or just want to trade notes on which team is most likely to cause heartbreak this season. 🤷🏽‍♂️
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
