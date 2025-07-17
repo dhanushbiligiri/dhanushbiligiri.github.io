@@ -21,7 +21,10 @@ github_username: dhanushbiligiri # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-inkedin_username: dbiligiri # your LinkedIn user name
+linkedin_username: 
+    logo: linkedin.png
+    title: LinkedIn
+    url: https://www.linkedin.com/in/dbiligiri/
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
