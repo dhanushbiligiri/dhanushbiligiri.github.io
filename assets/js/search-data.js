@@ -511,11 +511,11 @@ ninja.data = [{
           window.open("https://github.com/dhanushbiligiri", "_blank");
         },
       },{
-        id: 'social-inkedin_username',
-        title: 'Inkedin_username',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/{"logo"=>"linkedin.png", "title"=>"LinkedIn", "url"=>"https://www.linkedin.com/in/dbiligiri/"}", "_blank");
         },
       },{
       id: 'light-theme',
