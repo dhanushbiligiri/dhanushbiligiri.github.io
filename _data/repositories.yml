@@ -1,6 +1,6 @@
 github_users:
   - dhanushbiligiri
-  - RoLACLab
+
 
 repo_description_lines_max: 2
 
@@ -17,6 +17,3 @@ github_repos:
   - dhanushbiligiri/Pneumonia-Detection-using-CNN
   - dhanushbiligiri/Medicine-Database-Management-System
   - dhanushbiligiri/SpamClassifier
-  - RoLACLab/FractionalNets
-  - RoLACLab/CassieRL-BipedalLocomotion
-  - RoLACLab/rolac_rl
