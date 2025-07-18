@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Dhanush Biligiri",
+    "label": "PhD Student",
     "image": "",
-    "email": "albert@einstein.de",
+    "email": "dnarsipu@mtu.edu",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://dhanushbiligiri.github.io/",
+    "summary": "PhD Student in Computer Engineering with expertise in Data Mining, Predictive Modeling, model building, analytics, and visualization. Seeking a full-time role in Machine Learning Analytics, Data Engineering, or Business Analytics",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,13 +24,13 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Elctrical and Computer Engineering Dept., Michigan Technological University",
+      "position": "Graduate Teaching assistant",
+      "url": "",
+      "startDate": "2024-08-24",
+      "endDate": "Present",
+      "summary": "Teaching assistant with experience supporting lab instruction, and student guidance in electrical and computer engineering courses",
+      "highlights": ["EE2174 (Digital Logic)", "EE3010 (Circuits & Instrumentation CPS)", "EE3171 (Microcontroller Applications)"]
     }
   ],
   "volunteer": [
@@ -47,15 +47,18 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Michigan Technological University",
+      "location": ", Houghton MI, USA",
+      "url": "https://www.mtu.edu/",
+      "area": "Computer Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
+      "startDate": "08-24-2024",
+      "endDate": "Present",
+      "score": "3.75/4.00",
       "courses": ["Theory of Relativity"]
+    },
+    {
+
     }
   ],
   "awards": [
