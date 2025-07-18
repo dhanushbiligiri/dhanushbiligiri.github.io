@@ -8,17 +8,17 @@
     "url": "https://dhanushbiligiri.github.io/",
     "summary": "PhD Student in Computer Engineering with expertise in Data Mining, Predictive Modeling, model building, analytics, and visualization. Seeking a full-time role in Machine Learning Analytics, Data Engineering, or Business Analytics",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -35,14 +35,14 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
@@ -55,10 +55,18 @@
       "startDate": "08-24-2024",
       "endDate": "Present",
       "score": "3.75/4.00",
-      "courses": ["Theory of Relativity"]
+      "courses": [""]
     },
     {
-
+      "institution": "Michigan Technological University",
+      "location": ", Houghton MI, USA",
+      "url": "https://www.mtu.edu/",
+      "area": "Data Science",
+      "studyType": "MS",
+      "startDate": "08-24-2022",
+      "endDate": "04-24-2024",
+      "score": "3.75/4.00",
+      "courses": [""]
     }
   ],
   "awards": [
@@ -104,65 +112,183 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "R",
+        "SQL",
+        "C++"
+      ]
+    },
+    {
+      "name": "Simulation & Modeling",
+      "level": "Proficient",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MuJoCo",
+        "SPSS",
+        "Isaac Lab"
+      ]
+    },
+    {
+      "name": "Data Analysis & Visualization",
+      "level": "Proficient",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Tableau",
+        "PowerBI",
+        "Jupyter",
+        "PyCharm"
+      ]
+    },
+    {
+      "name": "Big Data & Cloud Tools",
+      "level": "Proficient",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Hadoop",
+        "Spark",
+        "SSMS"
+      ]
+    },
+    {
+      "name": "Version Control & Collaboration",
+      "level": "Proficient",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Git"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Kannada",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
       "fluency": "Fluent",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Robotics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Legged Locomotion",
+        "Local Maninpulation",
+        "Bipedal Robots",
+        "Reinforcment Learning"
+      ]
+    },
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Machine Learning",
+        "Predictive Modeling",
+        "Deep Learning",
+        "Vision Transformers"
+      ]
+    },
+    {
+      "name": "Data Science",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Data Mining",
+        "Time Series Forecasting",
+        "Data Visualization",
+        "Benchmarking Analytics"
+      ]
+    },
+    {
+      "name": "Human-Centered Computing",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Curriculum Design",
+        "Student Mentorship",
+        "Academic Support Tools"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     },
     {
-      "name": "Professor John Doe",
+      "name": "",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": ""
     }
   ],
   "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
+  {
+    "name": "RL-Based Trajectory Optimization for Cassie Robot",
+    "summary": "Enhanced reinforcement learning control for Cassie using MuJoCo, targeting improved trajectory accuracy and smooth locomotion.",
+    "highlights": [
+      "Achieved 16% improvement in joint configuration",
+      "Developed neural network for predicting joint positions",
+      "Aiming for 25% increase in trajectory precision"
+    ],
+    "startDate": "2024-04-01",
+    "endDate": "",
+    "url": ""
+  },
+  {
+    "name": "Evaluation of Detection Models with Enhanced Underwater Imagery",
+    "summary": "Compared object detection accuracy on underwater images enhanced with the Semi-UiR algorithm using YOLOv8 models.",
+    "highlights": [
+      "12% improvement in image clarity",
+      "30% better detection accuracy with regular images"
+    ],
+    "startDate": "2024-04-01",
+    "endDate": "2024-06-01",
+    "url": ""
+  },
+  {
+    "name": "Franchise Data-Driven Benchmarking",
+    "summary": "Developed a dashboard using SSIS, SSMS, and Power BI for franchise performance benchmarking and cost optimization.",
+    "highlights": [
+      "15% improvement in decision-making efficiency",
+      "35% cost optimization using predictive analytics"
+    ],
+    "startDate": "2024-01-01",
+    "endDate": "2024-04-01",
+    "url": ""
+  },
+  {
+    "name": "Time Series Forecasting for Mortality",
+    "summary": "Analyzed CDC’s 11-year mortality dataset and built predictive models for classifying top causes of death.",
+    "highlights": [
+      "Used XGBoost for data regression",
+      "Achieved 92% classification accuracy"
+    ],
+    "startDate": "2023-02-01",
+    "endDate": "2023-04-01",
+    "url": ""
+  },
+  {
+    "name": "Pneumonia Detection Using Deep Learning",
+    "summary": "Built a deep learning pipeline to detect pneumonia in X-ray images using Keras and TensorFlow.",
+    "highlights": [
+      "Processed 6,500 X-ray images",
+      "Achieved 91.5% accuracy"
+    ],
+    "startDate": "2022-01-01",
+    "endDate": "2022-07-01",
+    "url": ""
+  }
+]
+
 }
