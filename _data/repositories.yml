@@ -1,14 +1,18 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dhanushbiligiri
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - dhanushbiligiri/dhanushbiligiri.github.io
+  - dhanushbiligiri/old-portfolio
+  - dhanushbiligiri/CassieRL-BipedalLocomotion
+  - dhanushbiligiri/Evaluation-of-Detection-Models-with-Enhanced-Underwater-Imagery
+  - dhanushbiligiri/Medifind
+  - dhanushbiligiri/Statistical-Analysis-of-Telco-Churn-Data
+  - dhanushbiligiri/Time-Series-Forecasting-For-Mortality
+  - dhanushbiligiri/Comparison-of-classification-models
+  - dhanushbiligiri/Carpooling-System
+  - dhanushbiligiri/Pneumonia-Detection-using-CNN
+  - dhanushbiligiri/Medicine-Database-Management-System
+  - dhanushbiligiri/SpamClassifier
