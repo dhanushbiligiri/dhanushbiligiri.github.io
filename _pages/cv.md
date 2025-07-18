@@ -2,6 +2,7 @@
 layout: cv
 permalink: /cv/
 title: Curriculum vitae
+nav_title: CV
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf # Add PDF link here
