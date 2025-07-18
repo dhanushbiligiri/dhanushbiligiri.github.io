@@ -37,9 +37,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum vitae",
+          description: "CV of Dhanush Biligiri — PhD student, robotics tinkerer, and data science enthusiast. From legged locomotion to machine learning pipelines, this CV captures a journey through code, control, and curiosity. Seeking full-time opportunities starting Summer 2025.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
