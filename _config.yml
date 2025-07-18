@@ -151,6 +151,9 @@ collections:
     output: true
   projects:
     output: true
+  teaching:
+    output: true 
+    
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -222,6 +225,12 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: page
 
 sass:
   style: compressed
