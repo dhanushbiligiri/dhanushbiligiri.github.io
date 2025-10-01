@@ -206,14 +206,14 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-teaching-1",
-          title: 'Teaching 1',
+            },},{id: "teaching-digital-logic",
+          title: 'Digital Logic',
           description: "with background image",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1/";
-            },},{id: "teaching-teaching-2",
-          title: 'Teaching 2',
-          description: "with background image",
+            },},{id: "teaching-2",
+          title: '2',
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2/";
             },},{
