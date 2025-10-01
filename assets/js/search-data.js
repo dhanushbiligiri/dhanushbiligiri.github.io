@@ -211,6 +211,11 @@ ninja.data = [{
           description: "with background image",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1/";
+            },},{id: "teaching-teaching-2",
+          title: 'Teaching 2',
+          description: "with background image",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/2/";
             },},{
         id: 'social-discord',
         title: 'Discord',
