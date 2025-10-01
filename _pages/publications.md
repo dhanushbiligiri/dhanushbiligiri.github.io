@@ -9,12 +9,45 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature -->
+<!-- Bibsearch Feature
 
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography %} -->
+
+<!-- </div> -->
+
+{%- comment -%}
+  Custom Jekyll-Scholar item template:
+  - Makes the TITLE a clickable link (prefers url, falls back to doi)
+  - Adds a small external-link icon
+{%- endcomment -%}
+
+{%- assign link = entry.url -%}
+{%- if link == nil and entry.doi -%}
+  {%- assign link = 'https://doi.org/' | append: entry.doi -%}
+{%- endif -%}
+
+<li id="{{ entry.key }}" class="publication-item">
+  <span class="pub-title">
+    {%- if link -%}
+      <a href="{{ link }}" target="_blank" rel="noopener">{{ entry.title }}</a>
+    {%- else -%}
+      {{ entry.title }}
+    {%- endif -%}
+  </span>
+  <span class="pub-meta">
+    {{ entry.author | join: ', ' }}.
+    <em>{{ entry.journal }}</em>, {{ entry.year }}{% if entry.pages %}, {{ entry.pages }}{% endif %}.
+  </span>
+
+  {%- if link -%}
+    <a class="pub-icon" href="{{ link }}" target="_blank" rel="noopener" title="Open paper">
+      <i class="fas fa-external-link-alt"></i>
+    </a>
+  {%- endif -%}
+</li>
 
 </div>
