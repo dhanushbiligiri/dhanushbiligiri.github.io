@@ -156,7 +156,7 @@ ninja.data = [{
           title: 'Completed PhD Qualifying Exam by presenting my work on FractionalNets — a symmetric...',
           description: "",
           section: "News",},{id: "news-paper-accepted-in-nonlinear-dynamics-springer-fractionalnets-a-symmetric-neural-network-for-approximating-fractional-derivatives",
-          title: 'Paper accepted in Nonlinear Dynamics (Springer): FractionalNets — A Symmetric Neural Network for...',
+          title: 'Paper accepted in Nonlinear Dynamics (Springer) – FractionalNets — A Symmetric Neural Network...',
           description: "",
           section: "News",},{id: "news-awarded-the-jonathan-bara-award-for-outstanding-graduate-teaching-assistant-2024-2025-electrical-and-computer-engineering-michigan-tech",
           title: 'Awarded the Jonathan Bara Award for Outstanding Graduate Teaching Assistant (2024 - 2025)...',
