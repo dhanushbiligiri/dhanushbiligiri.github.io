@@ -211,9 +211,9 @@ ninja.data = [{
           description: "with background image",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1/";
-            },},{id: "teaching-2",
-          title: '2',
-          description: "",
+            },},{id: "teaching-microcontroller-application",
+          title: 'Microcontroller Application',
+          description: "with background image",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2/";
             },},{
