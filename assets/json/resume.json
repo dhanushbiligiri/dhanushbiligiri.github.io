@@ -71,10 +71,10 @@
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
+      "title": "Jonathan Bara Award for Outstanding Teaching Assistant",
+      "date": "09/25/25",
+      "awarder": "Michigan Technological University",
+      "url": "https://www.mtu.edu/ece/department/student-awards/bara-awards.html",
       "summary": ""
     }
   ],
@@ -89,11 +89,11 @@
   ],
   "publications": [
     {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "name": "FractionalNet: a symmetric neural network to compute fractional-order derivatives",
+      "publisher": "Nonlinear Dynamics, Springer",
+      "releaseDate": "August 2025",
+      "url": "https://link.springer.com/article/10.1007/s11071-025-11736-6",
+      "summary": "Fractional calculus extends classical differentiation to non-integer orders, providing a more flexible mathematical framework for modeling systems with memory effects and nonlocal behavior. However, the use of fractional calculus requires quite a bit of mathematical expertise and familiarity with some mathematical concepts that are not in everyday use across the broad spectrum of engineering disciplines. In this work, we present FractionalNet, a computational tool to approximate fractional derivatives. The tool design uses a symmetric neural network that is trained exclusively on integer-order data but can predict fractional-order derivatives. We demonstrate training a FractionalNet to compute half-order derivatives by using first-order derivative data. A Genetic Algorithm is employed to optimize key hyperparameters in the training process to improve the model performance. These parameters are evaluated across models with varying depths, defined by the number of identical hidden layers symmetrically placed around a central output layer. We further investigate how weight initialization techniques can improve prediction accuracy and training stability. Experimental results show that a FractionalNet with three symmetric hidden layers, particularly when paired with He-Uniform initialization and ReLU activation, consistently achieves high accuracy and consistency when predicting half-order derivatives. The results also demonstrate that combining evolutionary optimization with structured weight initialization enables FractionalNet to serve as an effective and less-complex tool for fractional derivative computation, highlighting the potential of using FractionalNet in broad engineering applications."
     },
     {
       "name": "",
