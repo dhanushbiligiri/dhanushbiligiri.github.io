@@ -216,6 +216,11 @@ ninja.data = [{
           description: "with background image",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2/";
+            },},{id: "teaching-circuits-for-non-majors",
+          title: 'Circuits for Non Majors',
+          description: "with background image",
+          section: "Teaching",handler: () => {
+              window.location.href = "/teaching/3/";
             },},{
         id: 'social-discord',
         title: 'Discord',
