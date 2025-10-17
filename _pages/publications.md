@@ -9,17 +9,17 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<!-- Bibsearch Feature
+ <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
 
 <div class="publications">
 
-{% bibliography %} -->
+{% bibliography %}
 
 <!-- </div> -->
 
-{%- comment -%}
+<!-- {%- comment -%}
   Custom Jekyll-Scholar item template:
   - Makes the TITLE a clickable link (prefers url, falls back to doi)
   - Adds a small external-link icon
@@ -50,4 +50,4 @@ nav_order: 2
   {%- endif -%}
 </li>
 
-</div>
+</div> -->
