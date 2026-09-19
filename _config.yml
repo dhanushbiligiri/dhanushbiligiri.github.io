@@ -23,7 +23,7 @@ repository               : "dhanushbiligiri/dhanushbiligiri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/IMG_1936.jpeg"
   name             : "Dhanush Biligiri"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
