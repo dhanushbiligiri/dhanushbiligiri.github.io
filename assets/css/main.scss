@@ -47,3 +47,125 @@
 .archive .page__title {
   font-size: 2.5rem;
 }
+
+.github-project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.github-project-card {
+  border: 1px solid var(--global-border-color);
+  border-radius: 6px;
+  padding: 1.25rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.github-project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.github-project-card h2 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  font-size: 1.2rem;
+}
+
+.github-project-card p {
+  margin-bottom: 1rem;
+}
+
+.github-project-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-size: 0.85rem;
+  opacity: 0.8;
+  margin-bottom: 1rem;
+}
+
+.github-project-link {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.github-stats-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 1.25rem 0 2rem;
+}
+
+.github-stat-card {
+  border: 1px solid var(--global-border-color);
+  border-radius: 6px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.github-stat-number {
+  display: block;
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.github-stat-label {
+  font-size: 0.85rem;
+  opacity: 0.75;
+}
+
+@media (max-width: 768px) {
+  .github-stats-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.github-activity-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: 1.25rem 0;
+}
+
+.github-stats-image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.github-contribution-graph {
+  margin: 1.5rem 0 2.5rem;
+  width: 100%;
+}
+
+.github-contribution-graph img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .github-activity-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.calendar {
+  width: 100%;
+  margin: 1rem 0 2.5rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+.calendar text {
+  fill: var(--global-text-color);
+}
+
+.calendar .contrib-column {
+  display: none;
+}
