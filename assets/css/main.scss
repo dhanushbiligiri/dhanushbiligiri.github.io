@@ -37,20 +37,3 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
-
-.author__avatar img {
-  width: 100% !important;
-  max-width: 100% !important;
-  height: 260px;
-  object-fit: cover;
-  object-position: center top;
-  border-radius: 0 !important;
-  padding: 0 !important;
-  border: none !important;
-  box-shadow: none !important;
-}
-
-.author__avatar {
-  width: 100%;
-  margin-bottom: 1rem;
-}
