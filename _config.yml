@@ -230,9 +230,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  events:
     output: true
-    permalink: /:collection/:path/
+    permalink: /events/:title/
   news:
     output: true
     permalink: /news/:title/
@@ -289,12 +289,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _events
   - scope:
       path: ""
-      type: talks
+      type: events
     values:
-      layout: talk
+      layout: events
       author_profile: true
       share: true
   # _news
