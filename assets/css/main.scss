@@ -153,19 +153,84 @@
   }
 }
 
+/* GitHub-style contribution calendar */
 .calendar {
   width: 100%;
   margin: 1rem 0 2.5rem;
-  border: 1px solid var(--global-border-color);
+  padding: 1rem 1.25rem 0.9rem;
+  border: 1px solid #30363d;
   border-radius: 6px;
-  padding: 1rem;
+  background: #0d1117;
+  color: #c9d1d9;
   overflow-x: auto;
 }
 
-.calendar text {
-  fill: var(--global-text-color);
+/* Hide library clutter */
+.calendar a[href*="contributions"] {
+  display: none !important;
 }
 
+.calendar .contrib-footer,
 .calendar .contrib-column {
-  display: none;
+  display: none !important;
+}
+
+/* Contribution SVG */
+.calendar svg {
+  width: 100%;
+  min-width: 720px;
+  height: auto;
+  display: block;
+}
+
+/* Labels */
+.calendar text,
+.calendar .ContributionCalendar-label {
+  fill: #c9d1d9 !important;
+  color: #c9d1d9 !important;
+  font-size: 11px !important;
+}
+
+/* Empty cells */
+.calendar .ContributionCalendar-day,
+.calendar .ContributionCalendar-day[data-level="0"] {
+  fill: #161b22 !important;
+  background-color: #161b22 !important;
+  outline: 1px solid rgba(240, 246, 252, 0.06);
+  outline-offset: -1px;
+}
+
+/* Contribution levels */
+.calendar .ContributionCalendar-day[data-level="1"] {
+  fill: #0e4429 !important;
+  background-color: #0e4429 !important;
+}
+
+.calendar .ContributionCalendar-day[data-level="2"] {
+  fill: #006d32 !important;
+  background-color: #006d32 !important;
+}
+
+.calendar .ContributionCalendar-day[data-level="3"] {
+  fill: #26a641 !important;
+  background-color: #26a641 !important;
+}
+
+.calendar .ContributionCalendar-day[data-level="4"] {
+  fill: #39d353 !important;
+  background-color: #39d353 !important;
+}
+
+/* Rounded GitHub-like cells */
+.calendar rect.ContributionCalendar-day {
+  rx: 2px;
+  ry: 2px;
+}
+
+/* Less / More legend */
+.calendar .contrib-legend,
+.calendar .float-right,
+.calendar .text-gray {
+  color: #8b949e !important;
+  fill: #8b949e !important;
 }
